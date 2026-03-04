@@ -1,0 +1,137 @@
+[
+  {
+    "id": "47247645",
+    "title": "MacBook Neo",
+    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "author": "dm",
+    "points": 1742,
+    "num_comments": 2030,
+    "created_at": "2026-03-04T14:16:41Z"
+  },
+  {
+    "id": "47249343",
+    "title": "Something is afoot in the land of Qwen",
+    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "author": "simonw",
+    "points": 641,
+    "num_comments": 284,
+    "created_at": "2026-03-04T15:55:34Z"
+  },
+  {
+    "id": "47253177",
+    "title": "Building a new Flash",
+    "url": "https://bill.newgrounds.com/news/post/1607118",
+    "author": "TechPlasma",
+    "points": 509,
+    "num_comments": 136,
+    "created_at": "2026-03-04T20:16:03Z"
+  },
+  {
+    "id": "47255662",
+    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "author": "SilverElfin",
+    "points": 496,
+    "num_comments": 275,
+    "created_at": "2026-03-04T23:51:10Z"
+  },
+  {
+    "id": "47246296",
+    "title": "Qwen3.5 Fine-Tuning Guide",
+    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+    "author": "bilsbie",
+    "points": 323,
+    "num_comments": 74,
+    "created_at": "2026-03-04T12:04:31Z"
+  },
+  {
+    "id": "47248319",
+    "title": "“It turns out” (2010)",
+    "url": "https://jsomers.net/blog/it-turns-out",
+    "author": "Munksgaard",
+    "points": 277,
+    "num_comments": 87,
+    "created_at": "2026-03-04T14:52:46Z"
+  },
+  {
+    "id": "47245491",
+    "title": "Moss is a pixel canvas where every brush is a tiny program",
+    "url": "https://www.moss.town/",
+    "author": "smusamashah",
+    "points": 240,
+    "num_comments": 25,
+    "created_at": "2026-03-04T10:21:13Z"
+  },
+  {
+    "id": "47247033",
+    "title": "Glaze by Raycast",
+    "url": "https://www.glazeapp.com/",
+    "author": "romac",
+    "points": 214,
+    "num_comments": 130,
+    "created_at": "2026-03-04T13:21:31Z"
+  },
+  {
+    "id": "47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
+    "author": "sdpmas",
+    "points": 157,
+    "num_comments": 28,
+    "created_at": "2026-03-04T17:56:04Z"
+  },
+  {
+    "id": "47254322",
+    "title": "Dulce et Decorum Est (1921)",
+    "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+    "author": "bikeshaving",
+    "points": 115,
+    "num_comments": 66,
+    "created_at": "2026-03-04T21:41:40Z"
+  },
+  {
+    "id": "47249744",
+    "title": "Humans 40k yrs ago developed a system of conventional signs",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+    "author": "bikenaga",
+    "points": 109,
+    "num_comments": 48,
+    "created_at": "2026-03-04T16:20:36Z"
+  },
+  {
+    "id": "47253221",
+    "title": "The View from RSS",
+    "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+    "author": "Curiositry",
+    "points": 109,
+    "num_comments": 29,
+    "created_at": "2026-03-04T20:19:43Z"
+  },
+  {
+    "id": "47254516",
+    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+    "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+    "author": "Anon84",
+    "points": 101,
+    "num_comments": 65,
+    "created_at": "2026-03-04T21:56:20Z"
+  },
+  {
+    "id": "47251163",
+    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "url": "https://roboflow.com/careers",
+    "author": "yeldarb",
+    "points": 0,
+    "num_comments": 0,
+    "created_at": "2026-03-04T17:49:44Z"
+  },
+  {
+    "id": "47246268",
+    "title": "Jiga (YC W21) Is Hiring",
+    "url": "https://jiga.io/about-us",
+    "author": "grmmph",
+    "points": 0,
+    "num_comments": 0,
+    "created_at": "2026-03-04T12:01:42Z"
+  }
+]
