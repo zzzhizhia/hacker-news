@@ -1,0 +1,40 @@
+name: Daily HN Fetch
+
+on:
+  schedule:
+    # Every day at 23:50 UTC
+    - cron: "50 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch today's HN front page
+        run: python fetch_daily.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          DATE=$(date -u +%Y-%m-%d)
+          FILE="${DATE}.json"
+          if [ ! -f "$FILE" ]; then
+            echo "No file generated, skipping."
+            exit 0
+          fi
+          COUNT=$(python -c "import json; print(len(json.load(open('${FILE}'))))")
+          git add "$FILE"
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          GIT_AUTHOR_DATE="${DATE}T12:00:00" GIT_COMMITTER_DATE="${DATE}T12:00:00" \
+            git commit -m "${DATE} Hacker News front page (${COUNT} stories)"
+          git push
