@@ -1,0 +1,209 @@
+[
+  {
+    "id": "47300329",
+    "title": "Ask HN: Please restrict new accounts from posting",
+    "url": null,
+    "author": "Oras",
+    "points": 390,
+    "num_comments": 293,
+    "created_at": "2026-03-08T19:26:59Z"
+  },
+  {
+    "id": "47298044",
+    "title": "FrameBook",
+    "url": "https://fb.edoo.gg",
+    "author": "todsacerdoti",
+    "points": 337,
+    "num_comments": 62,
+    "created_at": "2026-03-08T15:21:09Z"
+  },
+  {
+    "id": "47299009",
+    "title": "The changing goalposts of AGI and timelines",
+    "url": "https://mlumiste.com/general/openai-charter/",
+    "author": "skandium",
+    "points": 325,
+    "num_comments": 233,
+    "created_at": "2026-03-08T17:16:38Z"
+  },
+  {
+    "id": "47298885",
+    "title": "LibreOffice Writer now supports Markdown",
+    "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+    "author": "todsacerdoti",
+    "points": 259,
+    "num_comments": 47,
+    "created_at": "2026-03-08T17:01:50Z"
+  },
+  {
+    "id": "47301085",
+    "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+    "url": "https://agent-safehouse.dev/",
+    "author": "atombender",
+    "points": 224,
+    "num_comments": 49,
+    "created_at": "2026-03-08T20:30:18Z"
+  },
+  {
+    "id": "47296547",
+    "title": "Ask HN: How to be alone?",
+    "url": null,
+    "author": "sillysaurusx",
+    "points": 216,
+    "num_comments": 183,
+    "created_at": "2026-03-08T11:41:17Z"
+  },
+  {
+    "id": "47295837",
+    "title": "Notes on writing Rust-based Wasm",
+    "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+    "author": "vinhnx",
+    "points": 193,
+    "num_comments": 84,
+    "created_at": "2026-03-08T09:24:54Z"
+  },
+  {
+    "id": "47300102",
+    "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "author": "vancecookcobxin",
+    "points": 145,
+    "num_comments": 69,
+    "created_at": "2026-03-08T19:07:33Z"
+  },
+  {
+    "id": "47297919",
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "author": "kevinak",
+    "points": 128,
+    "num_comments": 111,
+    "created_at": "2026-03-08T15:07:28Z"
+  },
+  {
+    "id": "47298743",
+    "title": "My Homelab Setup",
+    "url": "https://bryananthonio.com/blog/my-homelab-setup/",
+    "author": "photon_collider",
+    "points": 112,
+    "num_comments": 103,
+    "created_at": "2026-03-08T16:46:10Z"
+  },
+  {
+    "id": "47300747",
+    "title": "We should revisit literate programming in the agent era",
+    "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+    "author": "horseradish",
+    "points": 96,
+    "num_comments": 50,
+    "created_at": "2026-03-08T19:58:15Z"
+  },
+  {
+    "id": "47302022",
+    "title": "Most of the US economy is in a recession",
+    "url": "https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3",
+    "author": "wslh",
+    "points": 86,
+    "num_comments": 51,
+    "created_at": "2026-03-08T22:01:32Z"
+  },
+  {
+    "id": "47297913",
+    "title": "What if the Apple ][ had run on Field-Sequential?",
+    "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+    "author": "zdw",
+    "points": 73,
+    "num_comments": 16,
+    "created_at": "2026-03-08T15:05:40Z"
+  },
+  {
+    "id": "47301808",
+    "title": "Blacksky AppView",
+    "url": "https://github.com/blacksky-algorithms/atproto",
+    "author": "Kye",
+    "points": 68,
+    "num_comments": 15,
+    "created_at": "2026-03-08T21:40:35Z"
+  },
+  {
+    "id": "47299505",
+    "title": "WSL Manager",
+    "url": "https://github.com/bostrot/wsl2-distro-manager",
+    "author": "gballan",
+    "points": 61,
+    "num_comments": 34,
+    "created_at": "2026-03-08T18:08:36Z"
+  },
+  {
+    "id": "47301241",
+    "title": "Lil Finder Guy",
+    "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+    "author": "frizlab",
+    "points": 53,
+    "num_comments": 18,
+    "created_at": "2026-03-08T20:43:19Z"
+  },
+  {
+    "id": "47293195",
+    "title": "Pushing and Pulling: Three reactivity algorithms",
+    "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+    "author": "frogulis",
+    "points": 49,
+    "num_comments": 5,
+    "created_at": "2026-03-08T00:57:57Z"
+  },
+  {
+    "id": "47301233",
+    "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+    "url": "https://github.com/Rabrg/artificial-life",
+    "author": "tosh",
+    "points": 47,
+    "num_comments": 4,
+    "created_at": "2026-03-08T20:42:41Z"
+  },
+  {
+    "id": "47299606",
+    "title": "I made a programming language with M&Ms",
+    "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+    "author": "tosh",
+    "points": 35,
+    "num_comments": 8,
+    "created_at": "2026-03-08T18:18:40Z"
+  },
+  {
+    "id": "47301967",
+    "title": "Detection Is Not Protection: What WAF Detection Mode Does (and Doesn't)",
+    "url": "https://blog.ebbypeter.com/2026/03/detection-is-not-protection-what-azure-waf-detection-mode-actually-does-and-doesnt/",
+    "author": "shadowAuror",
+    "points": 9,
+    "num_comments": 4,
+    "created_at": "2026-03-08T21:56:06Z"
+  },
+  {
+    "id": "47294582",
+    "title": "PCB devboard the size of a USB-C plug",
+    "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+    "author": "zachlatta",
+    "points": 6,
+    "num_comments": 0,
+    "created_at": "2026-03-08T05:04:14Z"
+  },
+  {
+    "id": "47302463",
+    "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+    "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+    "author": "medbar",
+    "points": 5,
+    "num_comments": 0,
+    "created_at": "2026-03-08T22:50:55Z"
+  },
+  {
+    "id": "47302494",
+    "title": "The Making and Unraveling of the American–Israeli Alliance",
+    "url": "https://egyptianstreets.com/2026/03/06/the-making-and-unraveling-of-the-american-israeli-alliance/",
+    "author": "KoftaBob",
+    "points": 4,
+    "num_comments": 0,
+    "created_at": "2026-03-08T22:54:20Z"
+  }
+]
