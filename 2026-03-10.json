@@ -1,0 +1,272 @@
+[
+  {
+    "id": "47324054",
+    "title": "Tony Hoare has died",
+    "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "author": "speckx",
+    "points": 1371,
+    "num_comments": 188,
+    "created_at": "2026-03-10T14:50:16Z"
+  },
+  {
+    "id": "47322635",
+    "title": "Online age-verification tools for child safety are surveilling adults",
+    "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+    "author": "bilsbie",
+    "points": 508,
+    "num_comments": 292,
+    "created_at": "2026-03-10T12:55:42Z"
+  },
+  {
+    "id": "47321233",
+    "title": "I put my whole life into a single database",
+    "url": "https://howisfelix.today/",
+    "author": "lukakopajtic",
+    "points": 408,
+    "num_comments": 201,
+    "created_at": "2026-03-10T10:07:48Z"
+  },
+  {
+    "id": "47323017",
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "author": "ndr42",
+    "points": 393,
+    "num_comments": 361,
+    "created_at": "2026-03-10T13:31:17Z"
+  },
+  {
+    "id": "47323900",
+    "title": "Meta acquires Moltbook",
+    "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "author": "mmayberry",
+    "points": 379,
+    "num_comments": 249,
+    "created_at": "2026-03-10T14:38:06Z"
+  },
+  {
+    "id": "47320661",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "author": "pjmlp",
+    "points": 361,
+    "num_comments": 365,
+    "created_at": "2026-03-10T08:54:53Z"
+  },
+  {
+    "id": "47320600",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "author": "helloplanets",
+    "points": 281,
+    "num_comments": 306,
+    "created_at": "2026-03-10T08:46:53Z"
+  },
+  {
+    "id": "47324087",
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "author": "jwilk",
+    "points": 260,
+    "num_comments": 205,
+    "created_at": "2026-03-10T14:53:13Z"
+  },
+  {
+    "id": "47322815",
+    "title": "Intel Demos Chip to Compute with Encrypted Data",
+    "url": "https://spectrum.ieee.org/fhe-intel",
+    "author": "sohkamyung",
+    "points": 214,
+    "num_comments": 83,
+    "created_at": "2026-03-10T13:10:48Z"
+  },
+  {
+    "id": "47327559",
+    "title": "Agents that run while I sleep",
+    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "author": "aray07",
+    "points": 182,
+    "num_comments": 130,
+    "created_at": "2026-03-10T19:09:46Z"
+  },
+  {
+    "id": "47323105",
+    "title": "Rebasing in Magit",
+    "url": "https://entropicthoughts.com/rebasing-in-magit",
+    "author": "ibobev",
+    "points": 177,
+    "num_comments": 121,
+    "created_at": "2026-03-10T13:38:39Z"
+  },
+  {
+    "id": "47326101",
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "author": "sanchitmonga22",
+    "points": 172,
+    "num_comments": 77,
+    "created_at": "2026-03-10T17:14:52Z"
+  },
+  {
+    "id": "47328214",
+    "title": "RISC-V Is Sloooow",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+    "author": "todsacerdoti",
+    "points": 142,
+    "num_comments": 123,
+    "created_at": "2026-03-10T20:11:54Z"
+  },
+  {
+    "id": "47327015",
+    "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+    "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+    "author": "steelbrain",
+    "points": 96,
+    "num_comments": 39,
+    "created_at": "2026-03-10T18:26:39Z"
+  },
+  {
+    "id": "47327641",
+    "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
+    "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+    "author": "naves",
+    "points": 90,
+    "num_comments": 23,
+    "created_at": "2026-03-10T19:17:26Z"
+  },
+  {
+    "id": "47326555",
+    "title": "Billion-Parameter Theories",
+    "url": "https://www.worldgov.org/complexity.html",
+    "author": "seanlinehan",
+    "points": 85,
+    "num_comments": 61,
+    "created_at": "2026-03-10T17:49:53Z"
+  },
+  {
+    "id": "47329605",
+    "title": "U+237C ⍼ Is Azimuth",
+    "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+    "author": "cokernel_hacker",
+    "points": 66,
+    "num_comments": 5,
+    "created_at": "2026-03-10T22:33:45Z"
+  },
+  {
+    "id": "47329557",
+    "title": "Cloudflare Crawl Endpoint",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+    "author": "jeffpalmer",
+    "points": 51,
+    "num_comments": 16,
+    "created_at": "2026-03-10T22:27:15Z"
+  },
+  {
+    "id": "47324296",
+    "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+    "url": null,
+    "author": "rosasalberto",
+    "points": 48,
+    "num_comments": 45,
+    "created_at": "2026-03-10T15:08:05Z"
+  },
+  {
+    "id": "47329608",
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "author": "phony-account",
+    "points": 47,
+    "num_comments": 16,
+    "created_at": "2026-03-10T22:33:48Z"
+  },
+  {
+    "id": "47328034",
+    "title": "Tell HN: Apple development certificate server seems down?",
+    "url": null,
+    "author": "strongpigeon",
+    "points": 46,
+    "num_comments": 17,
+    "created_at": "2026-03-10T19:56:52Z"
+  },
+  {
+    "id": "47321188",
+    "title": "Show HN: What's my JND? – a colour guessing game",
+    "url": "https://www.keithcirkel.co.uk/whats-my-jnd/?r=ARUjKP__-ve-",
+    "author": "Keithamus",
+    "points": 28,
+    "num_comments": 25,
+    "created_at": "2026-03-10T10:01:58Z"
+  },
+  {
+    "id": "47319115",
+    "title": "Appsflyer SDK Hijacked",
+    "url": "https://websdk.appsflyer.com/",
+    "author": "jackyzhao",
+    "points": 14,
+    "num_comments": 2,
+    "created_at": "2026-03-10T04:31:35Z"
+  },
+  {
+    "id": "47327163",
+    "title": "Networking with agents: Put them in the right conversations with Tailscale",
+    "url": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
+    "author": "matsur",
+    "points": 10,
+    "num_comments": 0,
+    "created_at": "2026-03-10T18:38:44Z"
+  },
+  {
+    "id": "47327351",
+    "title": "Show HN: Modulus – Cross-repository knowledge orchestration for coding agents",
+    "url": "https://modulus.so",
+    "author": "dasubhajit",
+    "points": 5,
+    "num_comments": 0,
+    "created_at": "2026-03-10T18:52:03Z"
+  },
+  {
+    "id": "47319587",
+    "title": "Ask HN: How are people doing AI evals these days?",
+    "url": null,
+    "author": "yelmahallawy",
+    "points": 4,
+    "num_comments": 2,
+    "created_at": "2026-03-10T06:11:42Z"
+  },
+  {
+    "id": "47318797",
+    "title": "SSH Secret Menu",
+    "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+    "author": "piccirello",
+    "points": 4,
+    "num_comments": 1,
+    "created_at": "2026-03-10T03:28:38Z"
+  },
+  {
+    "id": "47328071",
+    "title": "Against vibes: When is a generative model useful",
+    "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+    "author": "takira",
+    "points": 4,
+    "num_comments": 0,
+    "created_at": "2026-03-10T19:59:39Z"
+  },
+  {
+    "id": "47327473",
+    "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+    "url": "https://github.com/torlando-tech/columba",
+    "author": "khimaros",
+    "points": 4,
+    "num_comments": 0,
+    "created_at": "2026-03-10T19:02:01Z"
+  },
+  {
+    "id": "47318528",
+    "title": "Secure Secrets Management for Cursor Cloud Agents",
+    "url": "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents",
+    "author": "vmatsiiako",
+    "points": 4,
+    "num_comments": 0,
+    "created_at": "2026-03-10T02:43:34Z"
+  }
+]
