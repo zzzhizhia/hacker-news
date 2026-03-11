@@ -1,0 +1,227 @@
+[
+  {
+    "id": "47340079",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "author": "usefulposter",
+    "points": 2425,
+    "num_comments": 909,
+    "created_at": "2026-03-11T19:29:29Z"
+  },
+  {
+    "id": "47336989",
+    "title": "Temporal: A nine-year journey to fix time in JavaScript",
+    "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+    "author": "robpalmer",
+    "points": 469,
+    "num_comments": 161,
+    "created_at": "2026-03-11T15:35:50Z"
+  },
+  {
+    "id": "47333627",
+    "title": "How we hacked McKinsey's AI platform",
+    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+    "author": "mycroft_4221",
+    "points": 377,
+    "num_comments": 151,
+    "created_at": "2026-03-11T09:59:03Z"
+  },
+  {
+    "id": "47331811",
+    "title": "Making WebAssembly a first-class language on the Web",
+    "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+    "author": "mikece",
+    "points": 360,
+    "num_comments": 137,
+    "created_at": "2026-03-11T04:44:46Z"
+  },
+  {
+    "id": "47334293",
+    "title": "The MacBook Neo",
+    "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+    "author": "etothet",
+    "points": 349,
+    "num_comments": 594,
+    "created_at": "2026-03-11T11:37:24Z"
+  },
+  {
+    "id": "47334694",
+    "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+    "url": "https://github.com/microsoft/BitNet",
+    "author": "redm",
+    "points": 288,
+    "num_comments": 146,
+    "created_at": "2026-03-11T12:27:15Z"
+  },
+  {
+    "id": "47335349",
+    "title": "Entities enabling scientific fraud at scale (2025)",
+    "url": "https://doi.org/10.1073/pnas.2420092122",
+    "author": "peyton",
+    "points": 248,
+    "num_comments": 179,
+    "created_at": "2026-03-11T13:32:12Z"
+  },
+  {
+    "id": "47336476",
+    "title": "Google closes deal to acquire Wiz",
+    "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+    "author": "aldarisbm",
+    "points": 208,
+    "num_comments": 140,
+    "created_at": "2026-03-11T14:58:20Z"
+  },
+  {
+    "id": "47334982",
+    "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+    "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+    "author": "jjgreen",
+    "points": 141,
+    "num_comments": 324,
+    "created_at": "2026-03-11T12:57:41Z"
+  },
+  {
+    "id": "47337607",
+    "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+    "url": "https://sitespy.app",
+    "author": "vkuprin",
+    "points": 138,
+    "num_comments": 40,
+    "created_at": "2026-03-11T16:21:06Z"
+  },
+  {
+    "id": "47341845",
+    "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+    "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+    "author": "divbzero",
+    "points": 126,
+    "num_comments": 106,
+    "created_at": "2026-03-11T21:06:06Z"
+  },
+  {
+    "id": "47337249",
+    "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+    "url": "https://klausai.com/",
+    "author": "robthompson2018",
+    "points": 110,
+    "num_comments": 63,
+    "created_at": "2026-03-11T15:54:23Z"
+  },
+  {
+    "id": "47337177",
+    "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
+    "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+    "author": "tzury",
+    "points": 103,
+    "num_comments": 15,
+    "created_at": "2026-03-11T15:48:29Z"
+  },
+  {
+    "id": "47339164",
+    "title": "I was interviewed by an AI bot for a job",
+    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "author": "speckx",
+    "points": 96,
+    "num_comments": 102,
+    "created_at": "2026-03-11T18:17:30Z"
+  },
+  {
+    "id": "47336171",
+    "title": "Show HN: Open-source browser for AI agents",
+    "url": "https://github.com/theredsix/agent-browser-protocol",
+    "author": "theredsix",
+    "points": 96,
+    "num_comments": 30,
+    "created_at": "2026-03-11T14:39:30Z"
+  },
+  {
+    "id": "47339223",
+    "title": "Personal Computer by Perplexity",
+    "url": "https://www.perplexity.ai/personal-computer-waitlist",
+    "author": "josephwegner",
+    "points": 91,
+    "num_comments": 64,
+    "created_at": "2026-03-11T18:22:21Z"
+  },
+  {
+    "id": "47341645",
+    "title": "Many SWE-bench-Passing PRs would not be merged",
+    "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+    "author": "mustaphah",
+    "points": 89,
+    "num_comments": 11,
+    "created_at": "2026-03-11T20:56:52Z"
+  },
+  {
+    "id": "47338055",
+    "title": "Fungal Electronics (2021)",
+    "url": "https://arxiv.org/abs/2111.11231",
+    "author": "byt3h3ad",
+    "points": 57,
+    "num_comments": 6,
+    "created_at": "2026-03-11T16:53:11Z"
+  },
+  {
+    "id": "47337548",
+    "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
+    "url": "https://www.prismvideos.com",
+    "author": "aliu327",
+    "points": 30,
+    "num_comments": 16,
+    "created_at": "2026-03-11T16:16:12Z"
+  },
+  {
+    "id": "47340768",
+    "title": "What Is a Tort?",
+    "url": "https://harvardlawreview.org/print/vol-139/what-is-a-tort/",
+    "author": "bookofjoe",
+    "points": 22,
+    "num_comments": 24,
+    "created_at": "2026-03-11T20:12:36Z"
+  },
+  {
+    "id": "47337659",
+    "title": "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
+    "url": "https://www.sentrial.com/",
+    "author": "anayrshukla",
+    "points": 22,
+    "num_comments": 10,
+    "created_at": "2026-03-11T16:24:17Z"
+  },
+  {
+    "id": "47342139",
+    "title": "Preliminary data from a longitudinal AI impact study",
+    "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+    "author": "donutshop",
+    "points": 20,
+    "num_comments": 6,
+    "created_at": "2026-03-11T21:23:24Z"
+  },
+  {
+    "id": "47343935",
+    "title": "Show HN: Autoresearch_at_home – SETI_at_home but for LLM training",
+    "url": "https://www.ensue-network.ai/autoresearch",
+    "author": "austinbaggio",
+    "points": 9,
+    "num_comments": 3,
+    "created_at": "2026-03-11T23:27:18Z"
+  },
+  {
+    "id": "47343411",
+    "title": "Building Better Country Selects",
+    "url": "https://talysto.com/blog/building-better-country-selects/",
+    "author": "dlrush",
+    "points": 6,
+    "num_comments": 2,
+    "created_at": "2026-03-11T22:47:03Z"
+  },
+  {
+    "id": "47341760",
+    "title": "Meticulous (YC S21) is hiring to redefine software dev",
+    "url": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+    "author": "Gabriel_h",
+    "points": 0,
+    "num_comments": 0,
+    "created_at": "2026-03-11T21:01:42Z"
+  }
+]
